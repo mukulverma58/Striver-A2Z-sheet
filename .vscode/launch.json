@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/mukul/Documents/A2Z/Basic_Maths",
-      "program": "/Users/mukul/Documents/A2Z/Basic_Maths/build/Debug/outDebug"
+      "cwd": "/Users/mukul/Documents/Striver-A2Z-sheet/Basic_Maths",
+      "program": "/Users/mukul/Documents/Striver-A2Z-sheet/Basic_Maths/build/Debug/outDebug"
     }
   ]
 }
