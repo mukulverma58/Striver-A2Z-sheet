@@ -2,8 +2,8 @@
 using namespace std;
 void f(int i, int n){
     if (i > n)return;
+    cout << i << " ";
     f(i + 1, n);
-    cout << i << endl;
 }
 int main() {
     int n;
